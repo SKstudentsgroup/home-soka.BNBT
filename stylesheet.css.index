@@ -99,11 +99,6 @@ p  {
    font-family: sans-serif;
    font-family: strong
    }
-
-h1 {
-  font-family: serif;
-}
-
 h2 {
   font-family: monospace;
 }
